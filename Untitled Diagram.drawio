@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T07:16:52.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="NiaIuQZTG5F1s05FF3C-" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T07:19:02.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="qQONMWwSgkbRsLrtAzvU" version="14.1.9" type="github">
   <diagram id="oN-b47ausUEQ-Q-i7r5N" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,36 +8,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EWtavilVzIh3BYYIPG3K-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;游戏主界面&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i5QBsUKs3waU7UuBkeqk-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-1" target="i5QBsUKs3waU7UuBkeqk-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i5QBsUKs3waU7UuBkeqk-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;点击开始按钮&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i5QBsUKs3waU7UuBkeqk-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-2" target="i5QBsUKs3waU7UuBkeqk-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i5QBsUKs3waU7UuBkeqk-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;当前关卡界面&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i5QBsUKs3waU7UuBkeqk-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-3" target="i5QBsUKs3waU7UuBkeqk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i5QBsUKs3waU7UuBkeqk-3" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;点击屏幕任意位置&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i5QBsUKs3waU7UuBkeqk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-4" target="i5QBsUKs3waU7UuBkeqk-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i5QBsUKs3waU7UuBkeqk-4" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;游戏开始&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i5QBsUKs3waU7UuBkeqk-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-7" target="i5QBsUKs3waU7UuBkeqk-8">
+        <mxCell id="i5QBsUKs3waU7UuBkeqk-10" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;是&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-7" target="i5QBsUKs3waU7UuBkeqk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i5QBsUKs3waU7UuBkeqk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-7" target="i5QBsUKs3waU7UuBkeqk-9">
+        <mxCell id="i5QBsUKs3waU7UuBkeqk-11" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;否&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-7" target="i5QBsUKs3waU7UuBkeqk-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="834" y="190" as="targetPoint" />
           </mxGeometry>
@@ -57,10 +57,10 @@
         <mxCell id="i5QBsUKs3waU7UuBkeqk-9" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;游戏失败&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="654" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i5QBsUKs3waU7UuBkeqk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-17" target="i5QBsUKs3waU7UuBkeqk-21">
+        <mxCell id="i5QBsUKs3waU7UuBkeqk-27" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;否&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-17" target="i5QBsUKs3waU7UuBkeqk-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i5QBsUKs3waU7UuBkeqk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-17" target="i5QBsUKs3waU7UuBkeqk-18">
+        <mxCell id="i5QBsUKs3waU7UuBkeqk-32" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;是&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-17" target="i5QBsUKs3waU7UuBkeqk-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i5QBsUKs3waU7UuBkeqk-17" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;是否选择跳关或复活&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -75,10 +75,10 @@
         <mxCell id="i5QBsUKs3waU7UuBkeqk-18" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;观看广告&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="649" y="460" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i5QBsUKs3waU7UuBkeqk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-21" target="EWtavilVzIh3BYYIPG3K-1">
+        <mxCell id="i5QBsUKs3waU7UuBkeqk-25" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;否&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-21" target="EWtavilVzIh3BYYIPG3K-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i5QBsUKs3waU7UuBkeqk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-21" target="i5QBsUKs3waU7UuBkeqk-2">
+        <mxCell id="i5QBsUKs3waU7UuBkeqk-44" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;是&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5QBsUKs3waU7UuBkeqk-21" target="i5QBsUKs3waU7UuBkeqk-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i5QBsUKs3waU7UuBkeqk-21" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;是否重新开始游戏&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
